@@ -4,6 +4,10 @@
 <!--
 **thiagokind/thiagokind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+- 👯 I’m looking to collaborate on ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 
 +55 31 99142-7299
 [Stackoverflow](https://pt.stackoverflow.com/users/207213/thiagokind?tab=profile)
@@ -11,13 +15,12 @@
 
 -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React, SQL, Node...**
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🔭 I’m currently working on _person projects_
+- 🌱 I’m currently learning **JavaScript, React, SQL, Node...**
+- 🤔 I’m looking for help with _career change_
+- 💬 Ask me about anything
+
 
 #### 📫 How to reach me:
 
